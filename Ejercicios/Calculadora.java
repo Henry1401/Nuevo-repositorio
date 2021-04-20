@@ -26,7 +26,6 @@ switch (operacion){
   break;
   default: System.out.print("El número ingresado no es válido");
   break;
-  
 }
 }
 }
